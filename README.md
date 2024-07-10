@@ -2,6 +2,8 @@
 
 #To Setup That Project In your pc 
 
+First open Xampp and start apache and MySQL Then click on Admin nearby the config button of MySQL.
+
 Follow those Steps :
 
 - step 1: create a database named "bot".
